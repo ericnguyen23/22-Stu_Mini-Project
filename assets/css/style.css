@@ -32,6 +32,15 @@ nav ul li {
   margin-right:24px;
 }
 
+a {
+  color: darkred;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
+
 section {
   border:2px solid lightseagreen;
   padding:40px;
